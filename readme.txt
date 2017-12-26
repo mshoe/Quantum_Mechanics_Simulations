@@ -1,4 +1,5 @@
 QM_Simulations by Michael Xu
+Using C++, OpenGL, and imgui
 2017-01-28
 
 This program presents a visualization of the famous quantum physics case: a particle in a 2d infinite potential well.
